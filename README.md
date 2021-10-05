@@ -1,5 +1,7 @@
-### Hi there 👋
-  I am currently learning axelor, quarkus and effective team management. I like hot tea, coffee cold or hot depends on the season.
+ 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=SiddiqueAhmad&show_icons=true&include_all_commits=true&hide_border=true" />
+ 
+ Hi there 👋 I am currently learning axelor, quarkus and effective team management. I like hot tea, coffee cold or hot depends on the season.
 <!--
 **SiddiqueAhmad/SiddiqueAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
